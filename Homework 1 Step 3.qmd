@@ -1,0 +1,47 @@
+---
+title: "Data Scientists vs Statisticians"
+format: html
+editor: visual
+---
+
+## Data Science Questions
+
+Below are my answers to the data science vs statistics questions.
+
+<ol>
+
+<li>
+I typically think of a data scientist as an individual that handles the programming required to manage a large amount of data. I imagine them as some type of contracter or consultant for another company.
+</li>
+
+<li>
+There is a large overlap between the fields of data science and statistics. Both groups use the same programming languages and analyze data. However, in data science there is a greater emphasis on programming, while in statistics there is greater emphasis on the underlying mathematical principles.
+</li>
+
+<li>
+As a statistics student, I identify more as a statistician, given the courses I have taken in statistical theory. However, the technology associated with the field of data science allows for so much analysis to be done on such a large scale that most statisticians probably consider themselves somewhat of a data scientist, and vice versa.
+</li>
+
+</ol>
+
+## Iris Data Set
+
+As instructed, we create the object y from the Iris data set.
+
+We determine the class, type, and structure of y.
+
+```{r}
+y <- density(iris$Petal.Width)
+class(y)
+typeof(y)
+str(y)
+```
+
+We plot the y and use echo:false to keep the R code from being displayed in the document rendered.
+
+```{r}
+#| echo: false
+plot(y)
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
