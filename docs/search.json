@@ -18,6 +18,13 @@
     "href": "Homework 1 Step 3.html#iris-data-set",
     "title": "Data Scientists vs Statisticians",
     "section": "Iris Data Set",
-    "text": "Iris Data Set\nAs instructed, we create the object y from the Iris data set.\nWe determine the class, type, and structure of y.\n\ny &lt;- density(iris$Petal.Width)\nclass(y)\n\n[1] \"density\"\n\ntypeof(y)\n\n[1] \"list\"\n\nstr(y)\n\nList of 7\n $ x        : num [1:512] -0.656 -0.648 -0.64 -0.633 -0.625 ...\n $ y        : num [1:512] 0.00163 0.0018 0.00199 0.00219 0.00241 ...\n $ bw       : num 0.252\n $ n        : int 150\n $ call     : language density.default(x = iris$Petal.Width)\n $ data.name: chr \"iris$Petal.Width\"\n $ has.na   : logi FALSE\n - attr(*, \"class\")= chr \"density\"\n\n\nWe plot the y and use echo:false to keep the R code from being displayed in the document rendered.\n\n\n\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "text": "Iris Data Set\nAs instructed, we create the object y from the Iris data set.\nWe determine the class, type, and structure of y.\n\ny &lt;- density(iris$Petal.Width)\nclass(y)\n\n[1] \"density\"\n\ntypeof(y)\n\n[1] \"list\"\n\nstr(y)\n\nList of 7\n $ x        : num [1:512] -0.656 -0.648 -0.64 -0.633 -0.625 ...\n $ y        : num [1:512] 0.00163 0.0018 0.00199 0.00219 0.00241 ...\n $ bw       : num 0.252\n $ n        : int 150\n $ call     : language density.default(x = iris$Petal.Width)\n $ data.name: chr \"iris$Petal.Width\"\n $ has.na   : logi FALSE\n - attr(*, \"class\")= chr \"density\"\n\n\nWe plot the y and use echo:false to keep the R code from being displayed in the document rendered."
+  },
+  {
+    "objectID": "Practice.html",
+    "href": "Practice.html",
+    "title": "Practice",
+    "section": "",
+    "text": "y &lt;- density(iris$Petal.Width)\nplot(y)"
   }
 ]

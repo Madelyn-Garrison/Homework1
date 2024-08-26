@@ -41,5 +41,6 @@ We plot the y and use echo:false to keep the R code from being displayed in the 
 
 ```{r}
 #| echo: false
-plot(y)
+    plot(y)
 ```
+
