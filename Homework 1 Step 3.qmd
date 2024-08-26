@@ -37,7 +37,7 @@ typeof(y)
 str(y)
 ```
 
-We plot the y and use echo:false to keep the R code from being displayed in the document rendered.
+We plot the y and use echo:false to keep the R code from being displayed in the document.
 
 ```{r}
 #| echo: false
