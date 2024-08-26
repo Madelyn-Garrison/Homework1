@@ -43,5 +43,3 @@ We plot the y and use echo:false to keep the R code from being displayed in the 
 #| echo: false
 plot(y)
 ```
-
-The `echo: false` option disables the printing of code (only output is displayed).
