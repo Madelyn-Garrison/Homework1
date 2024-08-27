@@ -11,7 +11,7 @@ Below are my answers to the data science vs statistics questions.
 <ol>
 
 <li>
-I typically think of a data scientist as an individual that handles the programming required to manage and interpret a large amount of data. I imagine them as some type of contracter or consultant for a company. I don't think of a data scientist as someone who comes up with a research question and collects data themselves.
+I think of a data scientist as an individual that handles the programming required to manage and interpret a large amount of data. I imagine them as some type of contracter or consultant for a company. I don't think of a data scientist as someone who comes up with a research question and collects data themselves.
 </li>
 
 <li>
