@@ -11,15 +11,15 @@ Below are my answers to the data science vs statistics questions.
 <ol>
 
 <li>
-I typically think of a data scientist as an individual that handles the programming required to manage a large amount of data. I imagine them as some type of contracter or consultant for another company.
+I typically think of a data scientist as an individual that handles the programming required to manage and interpret a large amount of data. I imagine them as some type of contracter or consultant for a company. I don't think of a data scientist as someone who comes up with a research question and collects data themselves.
 </li>
 
 <li>
-There is a large overlap between the fields of data science and statistics. Both groups use the same programming languages and analyze data. However, in data science there is a greater emphasis on programming, while in statistics there is greater emphasis on the underlying mathematical principles.
+There is a large overlap between the fields of data science and statistics. Both groups use programming languages, create models, and produce analysis. However, in data science there is a greater emphasis on programming, while in statistics there is greater emphasis on the underlying mathematical principles.I also think that statisticians are more likely to work on general problems, closer to the world of theory and are open to really any result, while data scientists are setting out to solve a problem, and at least have a specific goal in mind.
 </li>
 
 <li>
-As a statistics student, I identify more as a statistician, given the courses I have taken in statistical theory. However, the technology associated with the field of data science allows for so much analysis to be done on such a large scale that most statisticians probably consider themselves somewhat of a data scientist, and vice versa.
+As a statistics student, I identify more as a statistician, given the courses I have taken in statistical theory and experimental design. However, the technology associated with the field of data science allows for so much analysis to be done on such a large scale that most statisticians probably consider themselves somewhat of a data scientist, and vice versa. In the modern day, data science skills are crucial to the field of statistics.
 </li>
 
 </ol>
